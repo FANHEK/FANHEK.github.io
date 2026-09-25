@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fgolden-ichor\u002F[id]","\u002Fgolden-ichor\u002F[id]\u002Fprototype"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
